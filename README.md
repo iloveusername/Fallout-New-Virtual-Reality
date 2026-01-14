@@ -2,10 +2,12 @@ Requirements:
 Python >= 3.12 (Can probably get away with previous versions.)
 Libraries Required: Keyboard, Openvr, NumPy, pyautogui, tkinter
 
-Please change the file path string to your New Vegas /Data/Config/ path.
+Please change the file path string to your New Vegas /Data/Config/ path,
 It won't work if you don't.
 
-Run this program before entering New Vegas
+Run this program, along with Steam VR and VorpX before entering New Vegas!
+
+
 DISCLAIMER
 This needs the 3rd party program VorpX to run as it renders the game in virtual reality.You also need to run my python program, FNVR_Tracker, to grab headset and controller poses.
 VorpX Link: https://www.vorpx.com (VorpX costs ~$40)
